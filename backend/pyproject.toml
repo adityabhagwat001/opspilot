@@ -1,0 +1,16 @@
+[tool.black]
+line-length = 88
+target-version = ['py311']
+include = '\.pyi?$'
+
+[tool.isort]
+profile = "black"
+multi_line_output = 3
+
+[tool.pytest.ini_options]
+minversion = "8.0"
+addopts = "-ra -q --asyncio-mode=auto"
+testpaths = [
+    "tests",
+]
+python_files = "test_*.py"
