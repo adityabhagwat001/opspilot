@@ -60,22 +60,6 @@ Existing generic AI assistants pose serious operational risks: plain LLM tool in
 
 ---
 
-## 📅 12-Sprint Roadmap (3-Month Development Schedule)
-
-- [x] **Sprint 1 (Days 1–7):** Project Foundation, FastAPI Architecture, Docker Compose & PostgreSQL Migrations (`v0.1.0-foundation`)
-- [ ] **Sprint 2 (Days 8–14):** JWT Authentication, RBAC Engine & Next.js UI Skeleton (`v0.2.0-auth-and-ui`)
-- [ ] **Sprint 3 (Days 15–21):** Custom Python MCP Servers (PostgreSQL & GitHub) (`v0.3.0-mcp-servers`)
-- [ ] **Sprint 4 (Days 22–28):** **MVP RELEASE:** LangGraph Agent Loop + HITL Approval Modal + SSE Streaming (`v1.0.0-mvp`)
-- [ ] **Sprint 5 (Days 29–35):** Real-Time WebSockets Alerts & Immutable Audit Logging Engine (`v1.1.0-realtime-audit`)
-- [ ] **Sprint 6 (Days 36–42):** Email/Calendar MCP Server & Granular Tool Policy Matrix (`v1.2.0-communication-mcp`)
-- [ ] **Sprint 7 (Days 43–49):** Redis Caching, Rate Limiting & Graceful Failure Recovery Engine (`v1.3.0-resilience-caching`)
-- [ ] **Sprint 8 (Days 50–56):** **PRODUCTION CORE:** GitHub Actions CI/CD & Playwright E2E Testing (`v1.4.0-production-core`)
-- [ ] **Sprint 9 (Days 57–63):** Dynamic MCP Server Registry UI & Encrypted Secret Vault (`v1.5.0-mcp-registry`)
-- [ ] **Sprint 10 (Days 64–70):** Operations Analytics Dashboard & Compliance Export (`v1.6.0-analytics`)
-- [ ] **Sprint 11 (Days 71–77):** Load Latency Benchmarks, Security Audit & Interview Defense Prep (`v1.7.0-benchmarks-security`)
-- [ ] **Sprint 12 (Days 78–84):** **FINAL RELEASE:** Cloud Deployment, Live Video Demo & Release (`v2.0.0-final-release`)
-
----
 
 ## 🚀 Quickstart & Local Setup
 
